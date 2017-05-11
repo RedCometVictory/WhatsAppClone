@@ -1,5 +1,5 @@
-// Components
-// --------------------------------------------------
+/* Components
+  -------------------------------------------------- */
 
 @import
 "{}/node_modules/ionic-angular/components/action-sheet/action-sheet",
@@ -228,8 +228,8 @@
 "{}/node_modules/ionic-angular/components/virtual-scroll/virtual-scroll";
 
  
-// Platforms
-// --------------------------------------------------
+/* Platforms
+ -------------------------------------------------- */
 @import
 "{}/node_modules/ionic-angular/platform/cordova",
 "{}/node_modules/ionic-angular/platform/cordova.ios",
@@ -237,8 +237,8 @@
 "{}/node_modules/ionic-angular/platform/cordova.wp";
 
 
-// Fonts
-// --------------------------------------------------
+/* Fonts
+ -------------------------------------------------- */
 @import
 "ionicons",
 "{}/node_modules/ionic-angular/fonts/noto-sans",
